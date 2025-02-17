@@ -58,3 +58,23 @@ Otra ventaja de implementar esta arquitectura en los móviles es la integración
 🔹 Ejemplo real:
 Los procesadores Apple M1 y M2, basados en ARM, han demostrado superar a los chips x86 en eficiencia y rendimiento, permitiendo laptops
 más ligeras y con mayor autonomía.
+
+2. Computación en la nube y servidores
+
+los servidores ARM ofrecen varias ventajas sobre las arquitecturas de servidores tradicionales basadas en x86 en cuanto a consumo de energía,
+rendimiento por vario y eficiencia general del sistema. La explicación se encuentra a continuación:
+    
+    🔹Eficiencia energética: En la informática moderna, la conservación de energía es crucial, y los servidores basados en ARM son ideales para
+       estos entornos. (Los procesadores ARM  consumen menos energía que los x86).
+    🔹 Integración de IoT y computación de borde: El bajo formato de ARM y su bajo consumo  de energía lo hacen adecuado no solo para centros de datos,
+       sino que también para dispositivos de IoT y computación de borde.
+    🔹 Escalabilidad: Son altamente escalables y permiten realizar una amplia gama de cargas de trabajo, desde servidores web livianos hasta HPC 
+       (aplicaciones informáticas de alto rendimiento).
+    🔹 Costos operativos más bajos.
+    🔹 Licencias libres y abiertas: Permiten a las empresas a desarrollar bajo una base.
+    🔹 Mayor densidad de servidores en racks.
+
+🔹 Ejemplo real:
+    🔹AWS Graviton: Procesadores ARM desarrollados por Amazon Web Services para optimizar cargas de trabajo en la nube.
+    🔹Ampere Altra: Utilizado por Microsoft Azure y Google Cloud para ofrecer servicios en la nube con menor consumo.
+
