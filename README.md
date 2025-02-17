@@ -36,10 +36,12 @@ R14 (LR - Link Register): Guarda la dirección de retorno al llamar una función
 R15 (PC - Program Counter): Contiene la dirección de la siguiente instrucción a ejecutar.
 
 2. Registros de estado y control
+
 CPSR (Current Program Status Register): Guarda información sobre el estado del procesador, incluyendo los flags de condición (Zero, Carry, Overflow, Negative).
 SPSR (Saved Program Status Register): Se usa para almacenar el CPSR cuando se produce un cambio de modo de ejecución.
 
 3. Modos de operación y registros en ARM
+
 ARM soporta varios modos de operación, como User, FIQ (Fast Interrupt), IRQ (Interrupt), Supervisor, Abort, Undefined y System, algunos de los cuales tienen versiones dedicadas de ciertos registros (como R13 y R14).
 
 
