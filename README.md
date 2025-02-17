@@ -35,7 +35,9 @@ R13 (SP - Stack Pointer): Apunta a la cima de la pila, utilizada para gestionar 
 R14 (LR - Link Register): Guarda la dirección de retorno al llamar una función.
 R15 (PC - Program Counter): Contiene la dirección de la siguiente instrucción a ejecutar.
 
-
+2. Registros de estado y control
+CPSR (Current Program Status Register): Guarda información sobre el estado del procesador, incluyendo los flags de condición (Zero, Carry, Overflow, Negative).
+SPSR (Saved Program Status Register): Se usa para almacenar el CPSR cuando se produce un cambio de modo de ejecución.
 
 
 
