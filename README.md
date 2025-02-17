@@ -78,3 +78,17 @@ rendimiento por vario y eficiencia general del sistema. La explicación se encue
     🔹AWS Graviton: Procesadores ARM desarrollados por Amazon Web Services para optimizar cargas de trabajo en la nube.
     🔹Ampere Altra: Utilizado por Microsoft Azure y Google Cloud para ofrecer servicios en la nube con menor consumo.
 
+3. Internet de las cosas (IoT) y Edge computing
+El aumento de la capacidad de procesamiento y la disminución del consumo de energía y los costos de mantenimiento de los dispositivos inteligentes, interconectados
+e interactivos en el borde de internet están creando enormes oportunidades para equipar las ciudades, fábricas, granjas etc. 
+En otras palabras, los dispositivos IoT necesitan procesadores eficiente y compactos que puedan funcionar con baterías de larga duración y también los procesadores 
+ARM están optimizados para Edge computing, lo que permite procesar datos más cerca de donde se generan sin depender de la nube (IoT genera grandes cantidades de datos 
+y Edge Computing los procesa más cerca del origen).
+
+🔹Ejemplos:
+    🔹ESP32 y Raspberry Pi → Utilizados en proyectos de IoT y domótica con núcleos ARM por su bajo consumo y alta integración.
+    🔹 Ciudades inteligentes: Semáforos que procesan datos de tráfico localmente.
+    🔹 Redes 5G: Infraestructura con chips ARM para mejorar la eficiencia energética.
+    🔹Vehículos autónomos.
+
+
