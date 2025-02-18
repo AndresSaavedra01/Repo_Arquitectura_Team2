@@ -7,7 +7,8 @@
     🔹Agrega un archivo README.md
 
     🔹Crea la rama develop para  el desarrollo
-    🔹
+    
+    🔹Merging de main y develop
 
 2. Cada miembro del equipo clona el repositorio en sus máquinas
 
