@@ -91,4 +91,32 @@ y Edge Computing los procesa más cerca del origen).
     🔹 Redes 5G: Infraestructura con chips ARM para mejorar la eficiencia energética.
     🔹Vehículos autónomos.
 
+4. Supercomputacion 
+Una supercomputadora es aquel tipo de ordenador que presenta capacidades de cálculo my por encima de la media. De hecho, la velocidad de estas máquinas se mide en petaflops o
+mil millones de operaciones por segundo. Aunque tradicionalmente dominado por x86, ARM ha ganado terreno en el mundo de los supercomputadores debido a su eficiencia energética y 
+escalabilidad.
 
+Entre sus ventajas de utilizar esta arquitectura está:
+   🔹Eficiencia energética: Reduce el consumo y la disipación de calor en comparación al x86
+   🔹Alto rendimiento escalable: Puede integrarse en arquitecturas masivamente paralelas con miles de nucleos
+   🔹Menos costos operativos: Reduce gastos en refrigeración
+
+🔹 Ejemplo real:
+   🔹 Fugaku (Japón) → Supercomputador basado en procesadores ARM A64FX de Fujitsu, reconocido como uno de los más potentes del mundo.
+   🔹 Cray y HPE están integrando procesadores ARM en sus supercomputadores para investigación científica.
+
+5. Telecomunicaciones y Redes
+Los procesadores ARM son esenciales en equipos de telecomunicaciones debido a su capacidad para manejar múltiples procesos de datos con bajo consumo de energía.
+
+Algunas ventajas de ARM en telecomunicaciones:
+   🔹Menor consumo de energía en redes 5G.
+   🔹Infraestructura más compacta: Facilita el despliegue de redes móviles y satelitales con hardware optimizado
+   🔹Mayor procesamiento en el Edge.
+   
+🔹 Aplicaciones en redes:
+   Routers y módems: Procesamiento rápido de datos con baja latencia.
+   Infraestructura 5G: ARM es clave en el despliegue de redes 5G, ya que maneja señales y conexiones en estaciones base.
+   Sistemas satelitales: La baja disipación térmica de ARM es ideal para satélites de comunicación.
+
+🔹 Ejemplo real:
+Qualcomm y Broadcom diseñan chips ARM para infraestructura de telecomunicaciones y conectividad 5G.
