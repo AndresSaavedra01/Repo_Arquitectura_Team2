@@ -315,4 +315,3 @@ Algunas ventajas de ARM en telecomunicaciones:
 🔹 Ejemplo real:
 
 Qualcomm y Broadcom diseñan chips ARM para infraestructura de telecomunicaciones y conectividad 5G.
->>>>>>> develop
